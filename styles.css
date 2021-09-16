@@ -119,6 +119,7 @@ h2 {
 .card--main .card__info p:hover {
   cursor: pointer;
   color: white;
+/*    */ display: block;
 }
 
 /* active state for day, weekly, monthly buttons */
